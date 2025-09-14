@@ -6,8 +6,8 @@
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 <div align="center">
   <img src="logo.png" alt="HlibElGoula Logo" width="300" height="200">
-   <b>HlibElGoula</b>
-  <p><em>Vous Pouvez Le Trouver Ici</em></p>
+  
+  <p><b>HlibElGoula</b><em>Vous Pouvez Le Trouver Ici</em></p>
 </div>
 
 ## About
