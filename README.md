@@ -1,14 +1,13 @@
+# HlibElGoula
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Twig](https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-
-# HlibElGoula
-
 <div align="center">
   <img src="logo.png" alt="HlibElGoula Logo" width="300" height="200">
-<p><em>Vous Pouvez Le Trouver Ici</em></p>
+   <b>HlibElGoula</b>
+  <p><em>Vous Pouvez Le Trouver Ici</em></p>
 </div>
 
 ## About
