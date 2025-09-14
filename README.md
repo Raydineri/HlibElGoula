@@ -7,7 +7,7 @@
 <div align="center">
   <img src="logo.png" alt="HlibElGoula Logo" width="300" height="200">
   
-  <p><b>HlibElGoula</b><em>Vous Pouvez Le Trouver Ici</em></p>
+  <p><b>HlibElGoula </b> <em> Vous Pouvez Le Trouver Ici !</em></p>
 </div>
 
 ## About
