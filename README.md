@@ -2,8 +2,9 @@
 # HlibElGoula
 
 <div align="center">
-  <img src="logo.png" alt="HlibElGoula Logo" width="200" height="200">
-  <p><em>Vous Pouvez Le Trouver Ici</em></p>
+  <img src="logo.png" alt="HlibElGoula Logo" width="300" height="200">
+<h2>HlibElGoula</h2>
+<p><em>Vous Pouvez Le Trouver Ici</em></p>
 </div>
 
 ## About
