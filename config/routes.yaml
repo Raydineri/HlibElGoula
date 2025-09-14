@@ -3,3 +3,19 @@ controllers:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
+index:
+    path: /index
+    controller: App\Controller\IndexController::index
+cart:
+    path: /cart
+    controller: App\Controller\CartController::index
+app_add:
+    path: /add/{id}
+    controller: App\Controller\CartController::add
+prod:
+    path: /prod_add
+    controller: App\Controller\ProduitController::index
+prod_display:
+    path: /prod_disp
+    controller: App\Controller\AfficheProduitController::index
+

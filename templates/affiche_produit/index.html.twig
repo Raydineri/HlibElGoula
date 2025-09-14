@@ -1,0 +1,20 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+    Liste des Produits!
+{% endblock %}
+
+{% block body %}
+    <div class="example-wrapper">
+        <h1>Liste des produits</h1>
+        {% for article in articles %}
+            <h2>{{ article.name }}</h2>
+            <div>{{ article.price }}</div>
+            <div>{{ article.madein }}</div>
+            <div>
+                <img src="/uploads/images/{{ article.photo }}" style="width:100px">
+            </div>
+            <hr>
+        {% endfor %}
+    </div>
+{% endblock %}
